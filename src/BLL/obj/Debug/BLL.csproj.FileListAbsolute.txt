@@ -1,0 +1,14 @@
+D:\系统文件\destbook\失物信息管理系统\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\BLL.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\BLL.pdb
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\DAL.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\lostPropertyMngt.Model.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\Maticsoft.Common.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\lostPropertyMngt.DBUtility.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\DAL.pdb
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\lostPropertyMngt.Model.pdb
+D:\系统文件\destbook\失物信息管理系统\BLL\bin\Debug\lostPropertyMngt.DBUtility.pdb
+D:\系统文件\destbook\失物信息管理系统\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\系统文件\destbook\失物信息管理系统\BLL\obj\Debug\BLL.dll
+D:\系统文件\destbook\失物信息管理系统\BLL\obj\Debug\BLL.pdb
+D:\系统文件\destbook\失物信息管理系统\BLL\obj\Debug\BLL.csprojAssemblyReference.cache

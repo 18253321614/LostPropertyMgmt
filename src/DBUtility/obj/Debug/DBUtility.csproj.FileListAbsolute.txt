@@ -1,0 +1,8 @@
+D:\系统文件\destbook\失物信息管理系统\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\系统文件\destbook\失物信息管理系统\DBUtility\bin\Debug\lostPropertyMngt.DBUtility.dll
+D:\系统文件\destbook\失物信息管理系统\DBUtility\bin\Debug\lostPropertyMngt.DBUtility.pdb
+D:\系统文件\destbook\失物信息管理系统\DBUtility\bin\Debug\Maticsoft.Common.dll
+D:\系统文件\destbook\失物信息管理系统\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\系统文件\destbook\失物信息管理系统\DBUtility\obj\Debug\lostPropertyMngt.DBUtility.dll
+D:\系统文件\destbook\失物信息管理系统\DBUtility\obj\Debug\lostPropertyMngt.DBUtility.pdb
+D:\系统文件\destbook\失物信息管理系统\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
